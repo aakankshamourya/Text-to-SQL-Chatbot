@@ -1,0 +1,8 @@
+project_name: "Text to SQL QA System"
+model:
+  name: "gpt-3.5-turbo"
+  temperature: 0.7
+database:
+  uri: "sqlite:///data/db.sqlite3"
+embedding:
+  model: "text-embedding-ada-002"

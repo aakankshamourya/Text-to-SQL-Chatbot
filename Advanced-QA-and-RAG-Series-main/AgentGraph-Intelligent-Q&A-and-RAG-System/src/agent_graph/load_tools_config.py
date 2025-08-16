@@ -70,3 +70,4 @@ class LoadToolsConfig:
         # Graph configs
         self.thread_id = str(
             app_config["graph_configs"]["thread_id"])
+
