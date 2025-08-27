@@ -1,4 +1,5 @@
-<img width="1280" height="720" alt="Text-to-SQL Chatbot" src="https://github.com/aakankshamourya/Text-to-SQL-Chatbot/assets/your-asset-id/text-to-sql-chatbot.png" />
+<img width="1280" height="720" alt="Text-to-SQL Chatbot" src="https://github.com/user-attachments/assets/430cf82d-4e26-430a-8dfe-256f5ddf7c7d" />
+
 
 
 
