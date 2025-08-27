@@ -1,9 +1,5 @@
+<img width="1280" height="720" alt="Text-to-SQL Chatbot" src="https://github.com/aakankshamourya/Text-to-SQL-Chatbot/assets/your-asset-id/text-to-sql-chatbot.png" />
 
-![Text-to-SQL Chatbot](assets/text-to-sql-chatbot.png)
-
-<p align="center">
-  <img src="assets/text-to-sql-chatbot.png" alt="Text-to-SQL Chatbot" width="600"/>
-</p>
 
 
 
