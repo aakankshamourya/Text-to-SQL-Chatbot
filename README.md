@@ -1,4 +1,4 @@
-![Uploading 3863b1d5-7350-44f9-8b4b-32e29b6b6413.png…]()
+https://sdmntprcentralus.oaiusercontent.com/files/00000000-db9c-61f5-86ac-feb3f54cb122/raw?se=2025-08-27T13%3A29%3A14Z&sp=r&sv=2024-08-04&sr=b&scid=cb89d836-704a-56b2-bab4-e9bf5f42c94f&skoid=38550de5-1fab-49d1-9ebb-83af5557cc43&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-26T21%3A07%3A40Z&ske=2025-08-27T21%3A07%3A40Z&sks=b&skv=2024-08-04&sig=1G40UnjQqYo%2B4kyj1PHREFBh57yLNC7vx7mH67pxb50%3D
 
 
 ---
