@@ -1,3 +1,6 @@
+
+![Text-to-SQL Chatbot](assets/text-to-sql-chatbot.png)
+
 <p align="center">
   <img src="assets/text-to-sql-chatbot.png" alt="Text-to-SQL Chatbot" width="600"/>
 </p>
